@@ -1,0 +1,29 @@
+
+
+
+#red-light {
+  width: 70px;
+  height: 70px;
+  border: none;
+}
+
+#yellow-light {
+  width: 70px;
+  height: 70px;
+  border: none;
+}
+
+#green-light {
+  width: 70px;
+  height: 70px;
+  border: none;
+}
+
+.traffic-light{
+  border: none;
+}
+.lightActiveGlow {
+  -webkit-box-shadow: 0px 0px 64px 21px rgba(245, 230, 191, 0.9);
+  -moz-box-shadow: 0px 0px 64px 21px rgba(245, 230, 191, 0.9);
+  box-shadow: 0px 0px 64px 21px rgba(245, 230, 191, 0.9);
+}
